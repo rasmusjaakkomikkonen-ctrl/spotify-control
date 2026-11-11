@@ -1,0 +1,9 @@
+{
+  "key.category.spotifycontrol.controls": "Spotify Control",
+  "key.spotifycontrol.playpause": "Play / Pause",
+  "key.spotifycontrol.next": "Next Song",
+  "key.spotifycontrol.previous": "Previous Song",
+  "key.spotifycontrol.volup": "Volume Up",
+  "key.spotifycontrol.voldown": "Volume Down",
+  "key.spotifycontrol.screen": "Open Spotify Menu"
+}
